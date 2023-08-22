@@ -8,30 +8,25 @@ A significant portion of my time is dedicated to building applications in React 
 
 Apart from my work, I contribute to open-source projects such as PrestaShop and Hummingbird for PrestaShop. I enjoy collaborating with the open-source community and leveraging my skills to contribute to these projects.
 
-🛍️ My Projects:
+🎨 My Portfolio Highlights 🌟
 
-Theme for a Large Clothing Store:
-I designed a modern and responsive theme that accentuates the style and character of the clothing brand. I also integrated advanced features such as animations, parallax effects.
+👕 Large Clothing Store: I personally designed and implemented a modern, responsive theme that accentuates the brand's unique style. Advanced features like animations and parallax effects were seamlessly integrated.
 
-Theme for a Polish Jewelry Store:
-I crafted an elegant and luxurious theme that highlights the uniqueness of the offered jewelry. I also introduced interactive product galleries and optimized the UX for the purchasing process.
+💍 Polish Jewelry Store: I crafted an elegant and luxurious theme that brings out the sparkle of the jewelry on offer. Interactive product galleries and a streamlined purchasing UX were my top priorities.
 
-Theme for an Ecological Drugstore:
-I focused on creating a clean and fresh design that reflects the ecological values of the brand. I also integrated features like an eco-product filter and a healthy lifestyle blog.
+🌿 Ecological Drugstore: With a focus on green and sustainable values, I delivered a fresh and clean design. Features like an eco-product filter and a health-focused blog were added to resonate with the brand's ethos.
 
-Maintenance for a Large Polish Bookstore:
-I was responsible for regular updates, introducing new features, and performance optimization. I also collaborated with the team to ensure the store's continuous operation and enhance the UX.
+📚 Large Polish Bookstore: Entrusted with its maintenance, I ensured regular updates, feature rollouts, and performance optimization. Collaborating with the team, we ensured a smooth and enhanced user experience.
 
-🛠️ Other Projects:
+🛠️ Other Noteworthy Projects:
 
-E2E Automated Tests for PrestaShop's Blog Module:
-I developed a set of E2E tests to ensure the blog module operates correctly and is free from errors. I utilized the latest tools and practices to ensure the accuracy and reliability of the tests.
+📝 E2E Automated Tests for PrestaShop's Blog Module: I developed a robust set of E2E tests, ensuring glitch-free operation. Leveraging the latest tools, I ensured the tests' accuracy and reliability.
 
-Layout Builder in Vue.js as a Module in PrestaShop:
-I created an intuitive and flexible Layout Builder based on Vue.js, allowing users to easily create and modify page layouts without the need for coding.
+🔧 Layout Builder in Vue.js for PrestaShop: I introduced an intuitive Layout Builder based on Vue.js. This allows users to effortlessly craft and modify page layouts, no coding required!
 
-Eatlyfi Project:
-Together with a team of passionate developers, we're building 'Eatlyfi' from the ground up, a comprehensive recipe platform. Our mission is to provide users with a seamless experience in discovering, sharing, and creating recipes. My primary role in this project is crafting the user interfaces using Next.js, ensuring that the platform is not only functional but also visually appealing and user-friendly.
+🍲 Eatlyfi Project: Teaming up with passionate developers, we're cooking up 'Eatlyfi' - a comprehensive recipe platform. Our goal? A seamless experience for discovering, sharing, and creating recipes. I'm at the forefront, designing user interfaces with Next.js, ensuring both functionality and aesthetic appeal.
+
+Interested in teaming up or learning more about my journey? 🤝 Let's connect! Here's how you can reach me: 📫
 
 If you're interested in collaborating or want to learn more about my experience, feel free to reach out!
 How to reach me: 📫 jacob.lach98@gmail.com
